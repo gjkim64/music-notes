@@ -16,7 +16,7 @@ A wiki-style collection of personal notes on music production, theory, gear setu
 | 🎹 DAW | [FL Studio Guide](FL-Studio-Guide.md) | 저장, 플러그인, 단축키, 녹음, 템포·박자, 트랙 분리, 문제 해결 |
 | 🎹 DAW | [Cubase & Virtual Instruments](Cubase-and-Virtual-Instruments.md) | Cubase SX 셋업·편집, Battery / Stylus / Trilogy |
 | 🔌 장비 | [MIDI & Hardware Setup](MIDI-and-Hardware-Setup.md) | MIDI 채널, 학교/집 장비 연결, AKAI·Yamaha·RoMIO, 오디오 인터페이스 |
-| 🎬 연주 | [Performance & Recording](Performance-and-Recording.md) | Fakeplay 연주 녹화, 스택 녹음, 커버/공연 준비 |
+| 🎬 연주 | [Performance & Recording](Performance-and-Recording.md) | Fakeplay 연주 녹화, 스택 녹음, 커버/공연 준비, 영상·프로젝션 도구 |
 | 💡 프로젝트 | [FakeBass Project](FakeBass-Project.md) | 가상환경 베이스 연주 인터랙션 디자인안 및 리서치 키워드 |
 | 🐍 코드 | [Python for Music](Python-for-Music.md) | Jython/jMusic, MIDIFile, sounddevice, librosa, conda 환경 |
 | 🙏 기타 | [Hymn Number Mapping 찬송가 번호](Hymn-Number-Mapping.md) | 찬송가 번호 대응표 |

@@ -40,10 +40,6 @@
 - 스택 트랙 녹음 (Stacked track recording)
 - 비디오 몽타주 / 원맨밴드
 
-### 레퍼토리 (외울 것)
-- 가사: *Eres Tú*, *It's Raining Again*
-- 코드 / 음악: *Don't Leave Me This Way*
-
 ---
 
 ## 4. 그 밖의 음악 활동 아이디어
@@ -53,3 +49,16 @@
 - 작곡 / 편곡: 화음 변주, 소품 작곡
 - 아르페지오와 Yamaha 연구
 - 악기 / 음색 연구
+
+---
+
+## 5. 영상 · 프로젝션 도구 (작성 예정)
+
+연주 영상과 무대 연출에 쓸 도구들. `Manual2.pptx` 에는 제목만 있고 내용은 아직 비어 있습니다.
+
+| 도구 | 용도 |
+| :--- | :--- |
+| Façade | Cheat sheet 정리 예정 |
+| MadMapper | 프로젝션 매핑 |
+| 카메라 셋업 | 3D extraction용 카메라 배치 |
+| After Effects | 영상 후반 작업 |

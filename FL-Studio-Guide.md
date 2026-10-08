@@ -148,3 +148,20 @@ MIDI 등 템포가 다른 것에 오디오 클립을 맞추려는 시도 (아직
 - 오디오 카드에 연결한 non-USB 마이크는 잘 됨.
 - ASIO4ALL + USB 마이크는 녹음은 되지만 소리가 안 남 → 실용성 없음.
 - **Amon ASIO** (오디오 카드 사용) 가 소리 지연이 가장 적다. FL Studio ASIO는 약간 지연이 있다.
+
+## 11. 학습 현황 (Learning Progress)
+
+> 출처: `Manual2.pptx` (FL Studio 슬라이드)
+
+| 주제 | 상태 |
+| :--- | :--- |
+| Channel rack 선택, 믹서 트랙 연결 (Ctrl+L / 메뉴), F8 플러그인 드래그 | ✅ 정리됨 (§2–3) |
+| 복사 후 Ctrl+B로 옆에 붙여넣기 | ✅ 정리됨 (§3) |
+| 기본 편집 및 편곡 (Basic editing & arrangement) | 🔄 진행 중 |
+| MIDI 설정 | 🔄 진행 중 — [MIDI & Hardware Setup](MIDI-and-Hardware-Setup.md) |
+| 오디오 인터페이스 | 🔄 진행 중 — §10 |
+| Fake와 함께 연주하기 | ❓ |
+| 녹음 / 스택 녹음 | 🔄 진행 중 — §4 |
+| 여러 VST 이해 | 🔄 진행 중 |
+| FL Studio 20 구입? | ❓ |
+| FL Cheat Sheet | 📝 슬라이드 작성 예정 (현재 이 페이지가 대신함) |

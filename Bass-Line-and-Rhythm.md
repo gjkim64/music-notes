@@ -39,25 +39,13 @@
 
 > FL Studio Channel Rack에서 패턴을 만들 때 오른쪽 메뉴의 *Fill every two steps* 등을 활용. → [FL Studio Guide](FL-Studio-Guide.md)
 
-연습 곡: *Don't Leave Me This Way* (Thelma Houston), *Celebration*, *The Power of Love*
+베이스 라인 분석 예제 곡: *Don't Leave Me This Way* (Thelma Houston), *Celebration*
+
+> AKAI 패드로 베이스를 연주할 때의 장비 연결은 [MIDI & Hardware Setup](MIDI-and-Hardware-Setup.md) 참고.
 
 ---
 
-## 3. AKAI 패드로 베이스 연주 준비
-
-**필요한 것**: AKAI (배터리 확인, USB 케이블), 믹서, 폰 연결 케이블, 충전 케이블, 폰, 헤드폰, 악보
-
-**순서**
-1. 믹서 켜기 → AKAI 켜기
-2. AKAI 세팅: Bass 악기, 옥타브, 아르페지오, Full level …
-3. 패드로 베이스 리듬 연주
-4. 그 외: 코드에 맞춘 아르페지오
-
-자세한 장비 연결은 [MIDI & Hardware Setup](MIDI-and-Hardware-Setup.md) 참고.
-
----
-
-## 4. 4현 베이스 지판 음 이름표 (Fretboard Chart)
+## 3. 4현 베이스 지판 음 이름표 (Fretboard Chart)
 
 표준 튜닝 E–A–D–G, 프렛 0–24. (Tab → 악보 변환용)
 
