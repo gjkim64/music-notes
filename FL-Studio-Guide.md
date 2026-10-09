@@ -117,7 +117,12 @@
 | 코드 입력 | Piano Roll 드롭다운의 **Stamp** 도구 (한자 세 글자처럼 생긴 아이콘) |
 | 코드 진행, riff, quantize, chop, arpeggiator | **Tools** (렌치 모양 드롭다운) |
 | 드럼 패턴, arpeggiator, automation, chopping | 왼쪽 중간 **Scores** 메뉴 → FPC drum loop |
-| 베이스 라인 변주 | Chop 도구 ❓ |
+| 베이스 라인 변주 | Chop 도구 --> 왼쪽 Scores 밑에 Chopping 혹은 Piano Roll 위 왼쪽 Wrench 밑에 Chop tool |
+
+
+
+
+
 
 ## 7. 채널과 트랙 분리 (Splitting by Channel)
 
