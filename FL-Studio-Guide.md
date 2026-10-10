@@ -133,11 +133,19 @@
 ## 8. 오디오 클립을 다른 템포에 맞추기 ❓
 
 MIDI 등 템포가 다른 것에 오디오 클립을 맞추려는 시도 (아직 매끄럽지 않음):
-1. MIDI도 함께 import (MIDI 템포는 오디오와 다를 가능성이 큼)
-2. MIDI 템포 삭제: 템포 우클릭 (*Edit events*) → 템포 창에서 삭제
-3. 오디오 클립을 Playlist로 import
-4. 왼쪽 드롭다운에서 *Stretch* 모드로 설정 → 원하는 프로젝트 BPM 설정 → **Fit to tempo**
-5. 필요하면 클립을 잘라서 각각 stretch
+0. Importing MIDI makes project to start a new
+1. Set project tempo .. but usually you don't know so
+2. Start a new and import MIDI and some tempo will be usually set to something as indicated in the MIDI
+3. Just use this value / You might want to think to remove the tempo of midi by going to tempo and right click to delete it but dont do this (no use)
+4. Then import the audio (if you detect tempo (somewhere in left little icon)) ... use this function to set the tempo to project tempo
+5. Still they are not exactly right
+6. Two choices - stretch MIDI or stretch audio
+7. Stretch MIDI is not only difficult (cannot do it all at once over different channels)
+8. Even if you tried this, MIDI stretching is odd ...
+9. So use audio stretch <-> icon somewhere in the left
+10. But before stretching, align the beginning --> if you are lucky after alignment and whole stretch might work
+11. But most likely tempo varies in the middle so you gotta chop at some milestones and stretch and paste togther piece by piece
+13. Project tempo does not seem to matter 
 
 > 매우 번거롭고 잘 안 됨. 남은 질문: bpm 삭제 방법, stretch 설정 방법, 마커/그리드에 정렬하는 법, 여러 구간을 다른 트랙에 복사·붙여넣기.
 
