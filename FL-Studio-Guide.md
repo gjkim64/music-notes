@@ -151,10 +151,12 @@ MIDI 등 템포가 다른 것에 오디오 클립을 맞추려는 시도 (아직
 
 > 매우 번거롭고 잘 안 됨. 남은 질문: bpm 삭제 방법, stretch 설정 방법, 마커/그리드에 정렬하는 법, 여러 구간을 다른 트랙에 복사·붙여넣기.
 
-## 9. GM MIDI로 저장하기 ❓
+## 9. GM MIDI로 저장하기
 
-- GM이 아닌 사운드를 쓴 MIDI를 저장할 때, 모든 사운드를 대응하는 GM 음색으로 바꿔야 하는가?
-- 드럼은 **채널 10** 으로 설정.
+- GM이 아닌 사운드를 쓴 MIDI를 저장할 때, 모든 사운드를 대응하는 GM 음색으로 바꿔야 하는가? --> yes
+- 드럼은 **채널 10** 으로 설정
+- to set channels to GM instrument, one must choose MIDI out
+- "AFTER" setting the option to prepare for midi out, change the specific MIDI out instrument to wanted ones --> then export to MIDI
 
 ## 10. 사운드 문제 해결 (Troubleshooting)
 
