@@ -145,7 +145,9 @@ MIDI 등 템포가 다른 것에 오디오 클립을 맞추려는 시도 (아직
 9. So use audio stretch <-> icon somewhere in the left
 10. But before stretching, align the beginning --> if you are lucky after alignment and whole stretch might work
 11. But most likely tempo varies in the middle so you gotta chop at some milestones and stretch and paste togther piece by piece
-13. Project tempo does not seem to matter 
+13. Project tempo does not seem to matter
+
+14. To slice and stretch audio individually, slice using knife, then stretch each by setting to <-> stretch mode and make sure you are in pencil, then you get different looking arrow cursor to stretch (not moving right and left)
 
 > 매우 번거롭고 잘 안 됨. 남은 질문: bpm 삭제 방법, stretch 설정 방법, 마커/그리드에 정렬하는 법, 여러 구간을 다른 트랙에 복사·붙여넣기.
 
