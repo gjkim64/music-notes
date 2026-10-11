@@ -7,6 +7,7 @@
 **FakeBass** (가칭)는 가상환경에서 뮤직비디오를 보면서, 미디 컨트롤러 등으로 **베이스 리듬을 쉽게 연주**하는 인터랙션 디자인안입니다.
 
 Also refer to https://ieeexplore.ieee.org/abstract/document/10108634
+
 "FakeBand: Virtual Band Music Performance with Balanced Interface for Individual Score/Rhythm Play and Inter-player Expression Coordination"
 
 ---
