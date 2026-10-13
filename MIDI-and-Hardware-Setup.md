@@ -57,7 +57,7 @@
 
 ## 6. 오디오 인터페이스 & 스택 녹음
 
-- Infrasonic / Amon 인터페이스는 Windows 10에서 동작하지 않음 → 새 오디오 인터페이스 구입 고려.
+- Infrasonic / Amon 인터페이스는 Windows 10에서 동작하지 않음 → 새 오디오 인터페이스 구입 고려 (School PC seems to be Win 10 / Home computer is Win 11)
 - Fakeplay를 녹음용 오디오 입력으로 쓰는 것도 고려.
 - Jamstik은 MIDI 입력/출력으로 동작하지 않았다.
 - ASIO 드라이버별 지연·호환성 메모는 [FL Studio Guide → 사운드 문제 해결](FL-Studio-Guide.md#10-사운드-문제-해결-troubleshooting) 참고.
