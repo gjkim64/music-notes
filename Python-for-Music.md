@@ -53,6 +53,14 @@ pip install librosa sounddevice soundfile
 python -m ipykernel install --user --name music
 ```
 
+## 4. Handling dataset of music (like wave files)
+- in the Dataset class,
+- accessing each file and loading them one at a time at a given moment by __getitem__ (self, idx) method is slow.  also note that resampling is also slow, so do this at init time if possible.
+- better to load the whole data set into the memory at __init__ time (loadaudio) and set up a big (tensor) array of wave data --> then in __getitem__, just access it by idx
+- however, one must have enough memory to store, otherwise out of memory error will occur
+- perhaps we can load partially but I dont know how to do that effectively yet
+  
+
 ---
 
 ## 4. 예제 코드
